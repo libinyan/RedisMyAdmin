@@ -2,7 +2,7 @@
 //服务器列表
 $config['server_list'] = array(
 	array(
-		'name' => 'localhost server', 
+		'name' => '生产环境Redis1', 
 		'host' => '127.0.0.1',
 		'port' => 6379,
 		'auth' => FALSE, //如无密码，可不设置此键，或将值设置为FALSE or NULL
